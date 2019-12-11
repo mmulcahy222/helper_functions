@@ -14,7 +14,7 @@ Functions to make life easier as a Python Developer. There was some adjustments 
 
 # Very Deeply Nested Key/Value Data Structure into Neat Text to find the order of Keys & Lists to access value in Structure
 
-![](images/xml_hierarchy/jpg)
+![](images/xml_hierarchy.jpg)
 
 # Utility "Helper" functions
 
