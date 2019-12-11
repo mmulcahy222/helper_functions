@@ -4,7 +4,7 @@ Functions to make life easier as a Python Developer. There was some adjustments 
 
 | Functions | Purpose |
 | ------ | ------ |
-| print_structure | Takes any Dictionary that is deeply deeply nested in LOTS of levels (whether it's 10 or 100 or unlimited), and just simply shows the hierarchy of keys at every node, and the value. GONE are the days of guessing and messing around on the console to find out the right keys to access one little value on that deeply nested div of 100 levels. |
+| print_structure | Takes any Dictionary that is deeply deeply nested in LOTS of levels (whether it's 10 or 100 or unlimited), and just simply shows the hierarchy of keys + list Indexes at every node, and the value. GONE are the days of guessing and messing around on the console to find out the right keys to access one little value on that deeply nested div of 100 levels. |
 | sanitize | only include ASCII characters for cases with messy unicode and you don't care about Unicode 
 | get_item | get a value in a list, with the option of a default value if there's a key error. Just handle the responsiblity of this somewhere else for cleaner code |
 | file_put_contents | Just a throwback and habit of my old PHP days, haha. Puts data in a file by the filename |
@@ -12,7 +12,9 @@ Functions to make life easier as a Python Developer. There was some adjustments 
 | get_html | Get the HTML but with Browser Cookies/User Agent to increase the chances of getting the desired HTML (generally for scraping) |
 | dvkp | From an old project I did, it gets the value of a dictionary based on a substring of a key. With an option for default argument if there's nothing. |
 
+# Very Deeply Nested Key/Value Data Structure into Neat Text to find the order of Keys & Lists to access value in Structure
 
+![](images/xml_hierarchy/jpg)
 
 # Utility "Helper" functions
 
