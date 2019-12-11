@@ -12,7 +12,7 @@ Functions to make life easier as a Python Developer. There was some adjustments 
 | get_html | Get the HTML but with Browser Cookies/User Agent to increase the chances of getting the desired HTML (generally for scraping) |
 | dvkp | From an old project I did, it gets the value of a dictionary based on a substring of a key. With an option for default argument if there's nothing. |
 
-# Very Deeply Nested Key/Value Data Structure into Neat Text to find the order of Keys & Lists to access value in Structure
+# Very Deeply Nested Key/Value Data Structure into Neat Text to find the order of Keys & Lists to access value in structure
 
 ![](images/xml_hierarchy.jpg)
 
